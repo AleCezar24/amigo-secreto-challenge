@@ -26,18 +26,3 @@ O foco principal foi a implementação da lógica em **JavaScript**, utilizando 
 - **CSS** - Estilização da interface  
 
 ---
-
-## ▶️ Como Executar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/albvieiraa/amigo-secreto-challenge.git
-
-2. Abra o arquivo `index.html` no seu navegador web.
-
-## 🤝 Como Contribuir
-- Faça um fork do projeto
-- Implemente melhorias ou novas funcionalidades
-- Envie um pull request
-
-### 💡 Contribuições são sempre bem-vindas!
